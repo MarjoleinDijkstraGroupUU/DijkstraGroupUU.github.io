@@ -1,2 +1,4 @@
+name: Dijkstra Group
 theme: minima
-markdown: kramdown
+markdown: GFM
+highlighter: rouge

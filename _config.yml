@@ -4,3 +4,5 @@ url: https://DijkstraGroupUU.github.io
 theme: minima
 markdown: GFM
 highlighter: rouge
+plugins:
+  - jekyll-readme-index

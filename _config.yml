@@ -1,8 +1,9 @@
 name: Dijkstra Group
 domain: DijkstraGroupUU.github.io
 url: https://dijkstragroupuu.github.io
-theme: minimal
+remote_theme: pages-themes/minimal@v0.2.0
 markdown: GFM
 highlighter: rouge
 plugins:
+  - jekyll-remote-theme
   - jekyll-readme-index

@@ -1,7 +1,7 @@
 name: Dijkstra Group
 domain: DijkstraGroupUU.github.io
-url: https://DijkstraGroupUU.github.io
-theme: minima
+url: https://dijkstragroupuu.github.io
+theme: minimal
 markdown: GFM
 highlighter: rouge
 plugins:
